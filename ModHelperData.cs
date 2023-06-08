@@ -3,7 +3,7 @@ namespace AlchemistFourthPath;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "36.1";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "AlchemistFourthPath";
 
     public const string Description = "Alchemist path to weaken bloons and slow em down.";
